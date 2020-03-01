@@ -7,6 +7,7 @@ Implement raytracing system by applying reflection, refraction, shadows and shin
 
 # Environment
 Ubuntu 16.04+gcc 5.4.0
+
 If you don't have Opengl and glut, just simply run the following commands:
 
 <p align="center">sudo apt-get install build-essential libgl1-mesa-dev libglu1-mesa-dev freeglut3-dev</p>
